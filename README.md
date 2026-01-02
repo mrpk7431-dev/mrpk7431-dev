@@ -56,18 +56,11 @@ Currently Pursuing
 
 ---
 
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
 
 ## Contact Information
 
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- Email: yourmail@gmail.com
+- LinkedIn: www.linkedin.com/in/pk003
+- Email: mrpk7431@gmail.com
 
 ---
 
