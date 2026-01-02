@@ -1,31 +1,35 @@
-# 👋 Hi, I'm Pk
+# Pk
 
-🎓 B.Tech Artificial Intelligence & Data Science Student  
-🤖 AI | Machine Learning | Data Science Enthusiast  
-🚀 Aspiring AI Engineer  
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Currently pursuing **B.Tech in AI & Data Science**
-- 📚 Passionate about **Machine Learning, Deep Learning & AI**
-- 💡 Interested in solving real-world problems using AI
-- 🌱 Currently learning **Python, ML algorithms & Data Analysis**
-- 🔍 Exploring projects and internships in AI domain
+B.Tech Artificial Intelligence and Data Science  
+Aspiring AI Engineer | Machine Learning Enthusiast
 
 ---
 
-## 🛠️ Skills
+## Professional Summary
+
+An enthusiastic undergraduate student pursuing **Artificial Intelligence and Data Science**, with a solid foundation in **machine learning concepts, data analysis, and Python programming**. Passionate about building practical AI solutions and continuously improving technical and problem-solving skills.
+
+---
+
+## Education
+
+**Bachelor of Technology (B.Tech)**  
+Artificial Intelligence and Data Science  
+Currently Pursuing
+
+---
+
+## Technical Skills
 
 **Programming Languages**
-- Python 🐍
-- C (Basics)
+- Python
+- C (Basic)
 
-**AI / ML**
-- Machine Learning
-- Supervised & Unsupervised Learning
-- Model Training & Evaluation
+**Artificial Intelligence & Machine Learning**
+- Supervised Learning
+- Unsupervised Learning
+- Regression and Classification Techniques
+- Model Training, Testing, and Evaluation
 
 **Libraries & Tools**
 - NumPy
@@ -34,41 +38,50 @@
 - Scikit-learn
 - Jupyter Notebook
 
-**Other**
-- Git & GitHub
+**Additional Skills**
 - Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Git & GitHub
 - Basic Statistics
 
 ---
 
-## 📂 Projects
+## Academic & Practical Projects
 
-🔹 **Student Performance Prediction (ML)**  
-- Built a machine learning model to predict student marks  
-- Used Python, Pandas, Scikit-learn  
+**Student Performance Prediction**
+- Designed and implemented a machine learning model to predict student academic performance
+- Performed data cleaning, feature selection, and model evaluation
+- Tools used: Python, Pandas, Scikit-learn
 
-🔹 **House Price Prediction**  
-- Regression based ML project  
-- Data preprocessing & model evaluation  
-
-🔹 **More projects coming soon... 🚀**
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+**House Price Prediction**
+- Developed a regression-based model to estimate housing prices
+- Focused on improving model accuracy through data preprocessing
+- Tools used: Python, Scikit-learn
 
 ---
 
-## 📫 Connect With Me
+## Current Learning Focus
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- 📧 Email: yourmail@gmail.com
+- Advanced Machine Learning Algorithms
+- Deep Learning Fundamentals
+- Real-world AI problem solving
+- Industry-oriented AI projects
 
 ---
 
-⭐ *Thank you for visiting my profile!*  
-🚀 *Let’s build AI for the future*
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## Contact Information
+
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- Email: yourmail@gmail.com
+
+---
+
+*Committed to continuous learning and building impactful AI-driven solutions.*
