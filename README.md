@@ -1,11 +1,11 @@
-# Pk
+# I'm pk
 
 B.Tech Artificial Intelligence and Data Science  
 Aspiring AI Engineer | Machine Learning Enthusiast
 
 ---
 
-## Professional Summary
+## Above
 
 An enthusiastic undergraduate student pursuing **Artificial Intelligence and Data Science**, with a solid foundation in **machine learning concepts, data analysis, and Python programming**. Passionate about building practical AI solutions and continuously improving technical and problem-solving skills.
 
@@ -44,19 +44,6 @@ Currently Pursuing
 - Git & GitHub
 - Basic Statistics
 
----
-
-## Academic & Practical Projects
-
-**Student Performance Prediction**
-- Designed and implemented a machine learning model to predict student academic performance
-- Performed data cleaning, feature selection, and model evaluation
-- Tools used: Python, Pandas, Scikit-learn
-
-**House Price Prediction**
-- Developed a regression-based model to estimate housing prices
-- Focused on improving model accuracy through data preprocessing
-- Tools used: Python, Scikit-learn
 
 ---
 
