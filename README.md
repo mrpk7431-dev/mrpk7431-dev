@@ -23,7 +23,7 @@ Currently Pursuing
 
 ---
 
-### 👨‍💻 Programming & Data
+### 👨‍💻 Programming language 
 
 <table>
   <tr>
