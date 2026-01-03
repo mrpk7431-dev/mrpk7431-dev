@@ -68,6 +68,10 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
       <img src="https://skillicons.dev/icons?i=pytorch" width="55"/><br>
       PyTorch
     </td>
+     </tr>
+</table>
+<table>
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
       VS Code
