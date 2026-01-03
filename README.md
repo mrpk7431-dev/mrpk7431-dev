@@ -54,7 +54,7 @@ Currently Pursuing
 ### 📊 Libraries & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas" /> Pandas &nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> Pandas &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=numpy" /> NumPy &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=matplotlib" /> Matplotlib
 </p>
