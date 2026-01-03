@@ -19,9 +19,9 @@ Currently Pursuing
 
 ---
 
-## 🧩 Technical Skills
+##  Technical Skills
 
-### 👨‍💻 Programming & Data
+### Programming language 
 <p>
   <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" /> SQL
@@ -29,7 +29,7 @@ Currently Pursuing
 
 ---
 
-### 🤖 Machine Learning
+### Machine Learning
 - Regression
 - Decision Trees
 - Random Forest
@@ -37,7 +37,7 @@ Currently Pursuing
 
 ---
 
-### 🧠 Deep Learning
+### Deep Learning
 - Neural Networks
 - CNN, RNN
 - Transformers
@@ -49,7 +49,7 @@ Currently Pursuing
 
 ---
 
-### 📊 Libraries & Tools
+### Libraries & Tools
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
