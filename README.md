@@ -24,7 +24,7 @@ Currently Pursuing
 ---
 
 ### 👨‍💻 Programming & Data
-<table>
+
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
@@ -35,7 +35,6 @@ Currently Pursuing
       SQL
     </td>
   </tr>
-</table>
 
 ---
 
