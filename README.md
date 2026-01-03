@@ -47,7 +47,7 @@ Currently Pursuing
 
 ## Current Learning Focus
 
-- Advanced Machine Learning Algorithms
+- Machine Learning Algorithms
 - Deep Learning Fundamentals
 - Real-world AI problem solving
 - Industry-oriented AI projects
@@ -62,4 +62,4 @@ Currently Pursuing
 
 ---
 
-*Committed to continuous learning and building impactful AI-driven solutions.*
+
