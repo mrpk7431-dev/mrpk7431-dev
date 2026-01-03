@@ -76,11 +76,11 @@ Currently Pursuing
       Pandas
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=numpy" width="55"/><br>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/><br>
       NumPy
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=matplotlib" width="55"/><br>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/><br>
       Matplotlib
     </td>
   </tr>
