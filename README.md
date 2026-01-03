@@ -19,51 +19,87 @@ Currently Pursuing
 
 ---
 
-##  Technical Skills :
+## 🧩 Technical Skills
 
-### Programming language 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" /> Python
-  <img src="https://skillicons.dev/icons?i=mysql" /> SQL
-</p>
-
----
-
-### Machine Learning
-- Regression
-- Decision Trees
-- Random Forest
-- K-Means Clustering
-
----
-
-### Deep Learning
-- Neural Networks
-- CNN, RNN
-- Transformers
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" /> TensorFlow &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" /> PyTorch
-</p>
+### 👨‍💻 Programming & Data
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+      SQL
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Libraries & Tools
+### 🤖 Machine Learning
+- Regression  
+- Decision Trees  
+- Random Forest  
+- K-Means Clustering  
+
+---
+
+### 🧠 Deep Learning
+- Neural Networks  
+- CNN, RNN  
+- Transformers  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>
+      TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="55"/><br>
+      PyTorch
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 📊 Libraries & Tools
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pandas" width="55"/><br>
+      Pandas
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=numpy" width="55"/><br>
+      NumPy
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=matplotlib" width="55"/><br>
+      Matplotlib
+    </td>
+  </tr>
+</table>
 
 <p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> Pandas &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" /> NumPy &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=matplotlib" /> Matplotlib
+  • Seaborn
 </p>
 
-- Seaborn
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+      GitHub
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
 
 
 ---
