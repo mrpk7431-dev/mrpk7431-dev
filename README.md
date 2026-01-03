@@ -23,7 +23,7 @@ Currently Pursuing
 
 ### Programming language 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" /> Python
   <img src="https://skillicons.dev/icons?i=mysql" /> SQL
 </p>
 
