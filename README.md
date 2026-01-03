@@ -100,10 +100,10 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
 
 ## Current Learning Focus
 
-- Machine Learning Algorithms
-- Deep Learning Fundamentals
-- Real-world AI problem solving
-- Industry-oriented AI projects
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI Problem Solving](https://img.shields.io/badge/AI%20Problem%20Solving-%239B59B6?style=for-the-badge&logo=ai&logoColor=white)
+![Industry Projects](https://img.shields.io/badge/Industry%20Projects-%23E74C3C?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
