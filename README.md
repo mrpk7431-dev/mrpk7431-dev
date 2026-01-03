@@ -104,13 +104,4 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
 ---
 
 
-## 📬 Contact Information
-
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/pk003)  
-[![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:mrpk7431@gmail.com)
-
-
-
----
-
 
