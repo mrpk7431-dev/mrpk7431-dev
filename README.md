@@ -19,7 +19,7 @@ Currently Pursuing
 
 ---
 
-##  Technical Skills
+##  Technical Skills :
 
 ### Programming language 
 <p>
