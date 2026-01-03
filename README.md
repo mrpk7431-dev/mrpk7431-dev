@@ -19,8 +19,55 @@ Currently Pursuing
 
 ---
 
-### 📊 Libraries & Tools
+## 🧩 Technical Skills
 
+---
+
+### 👨‍💻 Programming & Data
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+      SQL
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤖 Machine Learning
+- Regression  
+- Decision Trees  
+- Random Forest  
+- K-Means Clustering  
+
+---
+
+### 🧠 Deep Learning
+- Neural Networks  
+- CNN, RNN  
+- Transformers  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>
+      TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="55"/><br>
+      PyTorch
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Libraries & Tools
 <table>
   <tr>
     <td align="center">
@@ -53,11 +100,9 @@ Currently Pursuing
 </table>
 
 <p>
-  • Seaborn &nbsp;&nbsp;
-  • GitHub
+  <img src="https://img.shields.io/badge/Seaborn-2C2C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </p>
-
-
 
 
 ---
