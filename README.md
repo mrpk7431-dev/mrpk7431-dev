@@ -19,29 +19,68 @@ Currently Pursuing
 
 ---
 
-## Technical Skills
+## 🚀 Technical Skills
 
-**Programming & Data**
-- Python, SQL
+### 👨‍💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python" /> Python
+</p>
 
-**Machine Learning**
-- Regression
-- Decision Trees
-- Random Forest
-- K-Means Clustering
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" /> SQL
+</p>
 
-**Deep Learning**
-- Neural Networks
-- CNN, RNN
-- Transformers
+---
 
-**Libraries & Tools**
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- TensorFlow, PyTorch
-- Git, GitHub
+### 🤖 Machine Learning
+📌 Regression  
+📌 Decision Trees  
+📌 Random Forest  
+📌 K-Means Clustering  
 
+---
 
+### 🧠 Deep Learning
+📌 Neural Networks  
+📌 Convolutional Neural Networks (CNN)  
+📌 Recurrent Neural Networks (RNN)  
+📌 Transformers  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" /> TensorFlow
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" /> PyTorch
+</p>
+
+---
+
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas" /> Pandas
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy" /> NumPy
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=matplotlib" /> Matplotlib
+</p>
+
+📌 Seaborn  
+
+---
+
+### 🛠️ Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git" /> Git
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github" /> GitHub
+</p>
 
 ---
 
