@@ -6,7 +6,6 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
 
 ## 🧩 Technical Skills
 
----
 
 ### 👨‍💻 Programming language 
 
