@@ -1,12 +1,5 @@
 # I'm praveenkumar
 
-B.Tech Artificial Intelligence and Data Science  
-Aspiring AI Engineer | Machine Learning Enthusiast
-
----
-
-## Above
-
 An enthusiastic undergraduate student pursuing **Artificial Intelligence and Data Science**, with a solid foundation in **machine learning concepts, data analysis, and Python programming**. Passionate about building practical AI solutions and continuously improving technical and problem-solving skills.
 
 ---
