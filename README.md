@@ -21,28 +21,26 @@ Currently Pursuing
 
 ## Technical Skills
 
-**Programming Languages**
-- Python
-- C (Basic)
+**Programming & Data**
+- Python, SQL
 
-**Artificial Intelligence & Machine Learning**
-- Supervised Learning
-- Unsupervised Learning
-- Regression and Classification Techniques
-- Model Training, Testing, and Evaluation
+**Machine Learning**
+- Regression
+- Decision Trees
+- Random Forest
+- K-Means Clustering
+
+**Deep Learning**
+- Neural Networks
+- CNN, RNN
+- Transformers
 
 **Libraries & Tools**
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- TensorFlow, PyTorch
+- Git, GitHub
 
-**Additional Skills**
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Git & GitHub
-- Basic Statistics
 
 
 ---
