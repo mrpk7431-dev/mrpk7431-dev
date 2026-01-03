@@ -11,14 +11,6 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
 
 ---
 
-## Education
-
-**Bachelor of Technology (B.Tech)**  
-Artificial Intelligence and Data Science  
-Currently Pursuing
-
----
-
 ## 🧩 Technical Skills
 
 ---
