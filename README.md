@@ -50,18 +50,15 @@ Currently Pursuing
 ---
 
 ### 📊 Libraries & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas" /> Pandas &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" /> NumPy &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=matplotlib" /> Matplotlib
-</p>
 
-- Seaborn
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" /> GitHub
-</p>
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2C2C?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 
 ---
