@@ -96,29 +96,29 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
 ## 🎯 Current Learning Focus
 
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="34" align="middle"/>
-  <span style="margin-left:14px; font-size:18px; font-weight:600; position: relative; top: 3px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="46" style="margin-right:18px;" align="middle"/>
+  <span style="font-size:19px; font-weight:600;">
     Machine Learning Algorithms
   </span>
 </p>
 
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/8637/8637101.png" width="34" align="middle"/>
-  <span style="margin-left:14px; font-size:18px; font-weight:600; position: relative; top: 3px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/8637/8637101.png" width="46" style="margin-right:18px;" align="middle"/>
+  <span style="font-size:19px; font-weight:600;">
     Deep Learning Fundamentals
   </span>
 </p>
 
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="34" align="middle"/>
-  <span style="margin-left:14px; font-size:18px; font-weight:600; position: relative; top: 3px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="46" style="margin-right:18px;" align="middle"/>
+  <span style="font-size:19px; font-weight:600;">
     Real-world AI Problem Solving
   </span>
 </p>
 
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="34" align="middle"/>
-  <span style="margin-left:14px; font-size:18px; font-weight:600; position: relative; top: 3px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="46" style="margin-right:18px;" align="middle"/>
+  <span style="font-size:19px; font-weight:600;">
     Industry-oriented AI Projects
   </span>
 </p>
