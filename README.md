@@ -94,7 +94,6 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
 
 
 ## 🎯 Current Learning Focus
-
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="46" style="margin-right:18px;" align="middle"/>
   <span style="font-size:19px; font-weight:600;">
