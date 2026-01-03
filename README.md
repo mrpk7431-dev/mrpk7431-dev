@@ -17,12 +17,12 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
       Python
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
-      SQL
+      <img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+      C (Basi)
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="55"/><br>
-      C (Basic)
+      <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+      SQL
     </td>
   </tr>
 </table>
@@ -43,19 +43,6 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
 - CNN, RNN  
 - Transformers  
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>
-      TensorFlow
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="55"/><br>
-      PyTorch
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 📊 Libraries & Tools
@@ -73,8 +60,14 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
       <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/><br>
       Matplotlib
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>
+      TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="55"/><br>
+      PyTorch
+    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
       VS Code
