@@ -25,17 +25,11 @@ Currently Pursuing
 
 ### 👨‍💻 Programming & Data
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+ <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
       Python
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
       SQL
-    </td>
-  </tr>
-
+   
 ---
 
 ### 🤖 Machine Learning
