@@ -91,14 +91,28 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
 
 ---
 
-## 🚀 Current Learning Focus
+## 🎯 Current Learning Focus
 
-<div style="display: flex; gap: 5px; flex-wrap: nowrap; align-items: center;">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-007ACC?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2937" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1F2937" />
-  <img src="https://img.shields.io/badge/-AI%20Problem%20Solving-9B59B6?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1F2937" />
-  <img src="https://img.shields.io/badge/-Industry%20Projects-E74C3C?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" />
-</div>
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="40"/> &nbsp;
+  <strong>Machine Learning Algorithms</strong>
+</p>
+
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/8637/8637101.png" width="40"/> &nbsp;
+  <strong>Deep Learning Fundamentals</strong>
+</p>
+
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="40"/> &nbsp;
+  <strong>Real-world AI Problem Solving</strong>
+</p>
+
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="40"/> &nbsp;
+  <strong>Industry-oriented AI Projects</strong>
+</p>
+
 
 
 ---
