@@ -96,14 +96,16 @@ Currently Pursuing
       <img src="https://skillicons.dev/icons?i=git" width="55"/><br>
       Git
     </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://img.shields.io/badge/Seaborn-2C2C2C?style=flat-square" width="80"/><br>
+      Seaborn
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=github" width="60"/><br>
+      GitHub
+    </td>
   </tr>
 </table>
-
-<p>
-  <img src="https://img.shields.io/badge/Seaborn-2C2C2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</p>
-
 
 ---
 
