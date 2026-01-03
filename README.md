@@ -90,6 +90,7 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
   </tr>
 </table>
 
+---
 
 
 ## 🎯 Current Learning Focus
