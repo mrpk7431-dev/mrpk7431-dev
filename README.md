@@ -25,10 +25,18 @@ Currently Pursuing
 
 ### 👨‍💻 Programming & Data
 
- <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
       Python
-  <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
       SQL
+    </td>
+  </tr>
+</table>
    
 ---
 
