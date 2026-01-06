@@ -17,7 +17,7 @@ An enthusiastic undergraduate student pursuing **Artificial Intelligence and Dat
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=c" width="55"/><br>
-      C (Basi)
+      C (Basic)
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
